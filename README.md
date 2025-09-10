@@ -79,11 +79,10 @@ Average Delay = AVG(Delay_Days)
 7. Citywise Deliverys statitstics for courier
 
 
-👉 Tableau Public Link: Click Here
-- <a herf="https://public.tableau.com/app/profile/aditi.singh4102/viz/DeliveryDelayDashboard1/Story1?publish=yes">
+👉 Tableau Public Link: <a href="https://public.tableau.com/app/profile/aditi.singh4102/viz/DeliveryDelayDashboard1/Story1?publish=yes" target="_blank">Click Here</a>
 
 ## 
-🔑 Key Insights
+ 🔑 Key Insights
 
  28% of deliveries are late.
 
