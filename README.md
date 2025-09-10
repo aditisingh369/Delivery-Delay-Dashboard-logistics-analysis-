@@ -80,7 +80,7 @@ Average Delay = AVG(Delay_Days)
 
 
 👉 Tableau Public Link: Click Here
-- <a herf="https://public.tableau.com/app/profile/aditi.singh4102/viz/DeliveryDelayDashboard1/Dashboard1?publish=yes">
+- <a herf="https://public.tableau.com/app/profile/aditi.singh4102/viz/DeliveryDelayDashboard1/Story1?publish=yes">
 
 ## 
 🔑 Key Insights
